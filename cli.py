@@ -4,7 +4,7 @@ import time
 new_todos = []
 todos = []
 now =time.strptime(' %M:%H:%S')
-print((f"it is {now}"))
+
 
 while True:
     user_action = input('type add or show or exit or edit or complete----')
