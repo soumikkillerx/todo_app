@@ -3,7 +3,6 @@ import time
 
 new_todos = []
 todos = []
-now =time.strptime(' %M:%H:%S')
 
 
 while True:
